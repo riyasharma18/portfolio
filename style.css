@@ -301,3 +301,10 @@ body {
     padding: 20px;
     font-weight: 700;
   }
+  #aboutme{
+    position: relative;
+	overflow-x: hidden;
+  }
+  .about{
+   width: 100%;
+  }
